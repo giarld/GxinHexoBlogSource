@@ -1,6 +1,13 @@
 # GxinHexoBlogSource
 
 ## help
+
+### git下来之后
+首先在本目录下执行
+``` bash
+$ npm install
+```
+
 ### 显示图片等资源
 相对路径引用
 {% asset_path slug %}
