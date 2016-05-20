@@ -22,3 +22,5 @@ $ hexo deploy
 ``` bash
 $ hexo server
 ```
+
+### 可在page总插入HTML标签
