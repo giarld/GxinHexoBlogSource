@@ -16,9 +16,9 @@ tags: 开源软件
 
 > [Mac OSX (10.7及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer.dmg)              [备用地址](https://s3.amazonaws.com/lantern/lantern-installer.dmg)
 
-> [Ubuntu 64位 (14.04及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64.deb) [备用地址](https://s3.amazonaws.com/lantern/lantern-installer-64.deb)
+> [Ubuntu 64位 (14.04及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-64.deb)      [备用地址](https://s3.amazonaws.com/lantern/lantern-installer-64.deb)
 
-> [Ubuntu 32位(14.04及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32.deb)  [备用地址] (https://s3.amazonaws.com/lantern/lantern-installer-32.deb)
+> [Ubuntu 32位(14.04及以上)](https://raw.githubusercontent.com/getlantern/lantern-binaries/master/lantern-installer-32.deb)  [备用地址](https://s3.amazonaws.com/lantern/lantern-installer-32.deb)
 
 > 安卓版也可从[Google Play下载](https://play.google.com/store/apps/details?id=org.getlantern.lantern)
 
